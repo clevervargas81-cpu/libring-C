@@ -1,0 +1,2 @@
+# libring-C
+PARA TODO PUBLICO
